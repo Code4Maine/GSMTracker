@@ -1,0 +1,3 @@
+# Module bustracker
+# RPC service class, partial path of RPC policy file
+com.web.rest.client.GreetingService, E201AF05F8D2A9AADD5588296EF28C50.gwt.rpc

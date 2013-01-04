@@ -1,0 +1,2 @@
+serviceClass: com.web.rest.client.GreetingService
+path: E201AF05F8D2A9AADD5588296EF28C50.gwt.rpc

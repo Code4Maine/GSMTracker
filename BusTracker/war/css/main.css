@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+#map_canvas {
+    width: 650px;
+    height: 450px;
+    margin-left: 20px;
+    float: left;
+    clear: both;
+}
+
+#marker_data {
+    width: 450px;
+    height: 450px;
+    float: left;
+    margin-left:20px;
+}
+input, textarea{
+	border:1px solid black
+}
